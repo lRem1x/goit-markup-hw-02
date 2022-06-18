@@ -95,6 +95,7 @@ body {
 }
 
 .hero-btn {
+    font-family: Roboto, sans-serif;
     font-weight: 700;
     font-size: 16px;
     line-height: 1.87;
@@ -231,11 +232,12 @@ body {
 }
 
 .portfolio-button {
+    font-family: Roboto, sans-serif;
     font-weight: 500;
     font-size: 16px;
     line-height: 1.62;
     background-color: #f5f4fa;
-    color: var(--accent-color);
+    color: var(--text-color-black);
 }
 
 .portfolio-button:hover,
