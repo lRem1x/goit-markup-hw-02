@@ -92,6 +92,7 @@ body {
     line-height: 1.36;
     letter-spacing: 0.06em;
     color: var(--white-color);
+    text-transform: uppercase;
 }
 
 .hero-btn {
@@ -135,6 +136,7 @@ body {
     font-size: 14px;
     line-height: 1.14;
     color: var(--text-color-black);
+    text-transform: uppercase;
 }
 
 .details-text {
